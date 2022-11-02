@@ -1,6 +1,7 @@
 # MoonBoard
 
-This repo is an experimental for utilizing Machine Learning technology for Rock Climbing training board named *MoonBoard*.
+This repo is an experimental for utilizing Machine Learning technology for Rock Climbing training board named *MoonBoard*. 
+The foundation of this repository is pulled from https://github.com/mshr-h/moonboard-ml. 
 
 ## Directory organization
 
